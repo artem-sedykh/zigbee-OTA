@@ -926,16 +926,6 @@
         "path": "images/Xiaomi/OTA_lumi.relay.c4acn01_V2.1.20_201900821_8FFEC9.20190906162416.ota"
     },
     {
-        "fileVersion": 46,
-        "fileSize": 179502,
-        "manufacturerCode": 4447,
-        "imageType": 257,
-        "sha512": "ea9f9d74c65b2828e6417b525502bfc9d2f75c220b2504927e2b515c340503bc03e2612ad4c2b2ee8d1ff75d1328db8efa743c07c21a82f4ebd15f8ddac40a0b",
-        "modelId": "lumi.relay.c2acn01",
-        "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Xiaomi/20201218113852_lumi.relay.c2acn01_0.0.0_0046_20201216_6BB0FD.ota",
-        "path": "images/Xiaomi/20201218113852_lumi.relay.c2acn01_0.0.0_0046_20201216_6BB0FD.ota"
-    },
-    {
         "fileVersion": 22,
         "fileSize": 276030,
         "manufacturerCode": 4447,
@@ -1274,5 +1264,23 @@
         "modelId": "GL-B-008P",
         "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Gledopto/GL-B-008P_V17A1_OTAV7.ota",
         "path": "images/Gledopto/GL-B-008P_V17A1_OTAV7.ota"
+    },
+    {
+        "fileVersion": 318,
+        "fileSize": 176624,
+        "manufacturerCode": 10132,
+        "imageType": 2017,
+        "sha512": "5e36ceaa44c4b3e12f4ff415b00fb16a3d64aaa3d8bebaecc0590480f4850e8ff226be20356417da223679c4210b5c69e8159ae15628c098c59d074e86d97258",
+        "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/ClimaxTechnology/12128_OTA_3.18.ZIGBEE",
+        "path": "images/ClimaxTechnology/12128_OTA_3.18.ZIGBEE"
+    },
+    {
+        "fileVersion": 262146,
+        "fileSize": 198738,
+        "manufacturerCode": 4117,
+        "imageType": 593,
+        "sha512": "6ff88b27a44d0762e62d70d278313803a241ace28433135be765bb3e3fe34ec848ce71d645e28c78a88005fac03e039d507553b2fc16e1fd1b024d571a9c84c9",
+        "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Develco/ED_Smoke_Sensor_SSIG_4.0.2.zigbee",
+        "path": "images/Develco/ED_Smoke_Sensor_SSIG_4.0.2.zigbee"
     }
 ]
